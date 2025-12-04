@@ -1,0 +1,27 @@
+Weather Data Summary Report
+---------------------------
+
+Average temperature: 24.20 °C
+Highest temperature: 32.00 °C
+Lowest temperature: 18.00 °C
+
+Total rainfall: 21.50 mm
+Day with highest rainfall: 2024-01-04
+
+Monthly overview (Temperature mean, Rainfall sum, Humidity mean):
+       Temperature  Rainfall  Humidity
+Month                                 
+1             20.0      17.5      63.0
+2             24.5       1.0      42.5
+3             31.0       3.0      35.0
+
+Seasonal overview:
+        Temperature  Rainfall   Humidity
+Season                                  
+Spring    31.000000       3.0  35.000000
+Winter    21.285714      18.5  57.142857
+
+Observations:
+- Temperatures and rainfall vary between months and seasons.
+- Look for months with unusually high rainfall or temperature spikes.
+- This information can help with planning and climate awareness.
